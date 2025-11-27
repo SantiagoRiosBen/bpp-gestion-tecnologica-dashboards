@@ -1,0 +1,61 @@
+id_incidente,activo_afectado,tipo_incidente,fecha_inicio,fecha_fin,tiempo_caida_minutos,impacto_usuarios_estimado
+INC001,Switch Core,Caída servicio,2024-01-12,2024-01-12 02:26:00,146,99
+INC002,Sistema de impresión,Degradación,2024-01-26,2024-01-26 01:19:00,79,194
+INC003,Switch Core,Degradación,2024-03-20,2024-03-20 01:07:00,67,156
+INC004,WiFi Piso 2,Mantenimiento no planificado,2024-03-04,2024-03-04 03:22:00,202,144
+INC005,Servidor archivos,Degradación,2024-02-01,2024-02-01 00:43:00,43,11
+INC006,Firewall perimetral,Mantenimiento no planificado,2024-01-30,2024-01-30 02:23:00,143,182
+INC007,Servidor archivos,Mantenimiento no planificado,2024-01-02,2024-01-02 01:30:00,90,101
+INC008,WiFi Piso 2,Mantenimiento no planificado,2024-02-09,2024-02-09 00:31:00,31,65
+INC009,Servidor archivos,Caída servicio,2024-02-23,2024-02-23 02:10:00,130,187
+INC010,Servidor archivos,Caída servicio,2024-02-05,2024-02-05 00:28:00,28,138
+INC011,Firewall perimetral,Degradación,2024-02-22,2024-02-22 03:04:00,184,196
+INC012,Servidor archivos,Mantenimiento no planificado,2024-01-11,2024-01-11 02:33:00,153,39
+INC013,Switch Core,Caída servicio,2024-03-22,2024-03-22 03:34:00,214,156
+INC014,Switch Core,Mantenimiento no planificado,2024-03-13,2024-03-13 00:20:00,20,38
+INC015,Firewall perimetral,Degradación,2024-01-31,2024-01-31 01:19:00,79,105
+INC016,Firewall perimetral,Degradación,2024-03-30,2024-03-30 03:37:00,217,120
+INC017,Servidor archivos,Caída servicio,2024-02-04,2024-02-04 01:04:00,64,39
+INC018,WiFi Piso 2,Caída servicio,2024-03-15,2024-03-15 00:32:00,32,47
+INC019,Firewall perimetral,Degradación,2024-02-27,2024-02-27 02:04:00,124,35
+INC020,WiFi Piso 2,Degradación,2024-03-09,2024-03-09 01:36:00,96,83
+INC021,Servidor archivos,Caída servicio,2024-02-29,2024-02-29 01:12:00,72,45
+INC022,Sistema de impresión,Caída servicio,2024-03-28,2024-03-28 01:22:00,82,60
+INC023,Servidor archivos,Mantenimiento no planificado,2024-02-11,2024-02-11 00:42:00,42,68
+INC024,Sistema de impresión,Caída servicio,2024-02-15,2024-02-15 01:46:00,106,178
+INC025,WiFi Piso 2,Caída servicio,2024-02-08,2024-02-08 01:11:00,71,108
+INC026,Sistema de impresión,Caída servicio,2024-02-27,2024-02-27 02:27:00,147,29
+INC027,WiFi Piso 2,Caída servicio,2024-02-29,2024-02-29 00:31:00,31,8
+INC028,WiFi Piso 2,Caída servicio,2024-01-08,2024-01-08 03:37:00,217,55
+INC029,Servidor archivos,Mantenimiento no planificado,2024-02-21,2024-02-21 01:40:00,100,155
+INC030,Servidor archivos,Caída servicio,2024-02-03,2024-02-03 03:59:00,239,21
+INC031,Switch Core,Caída servicio,2024-01-26,2024-01-26 03:56:00,236,28
+INC032,Servidor archivos,Degradación,2024-02-12,2024-02-12 00:36:00,36,17
+INC033,Switch Core,Mantenimiento no planificado,2024-01-22,2024-01-22 02:31:00,151,106
+INC034,Switch Core,Mantenimiento no planificado,2024-03-04,2024-03-04 00:12:00,12,114
+INC035,WiFi Piso 2,Caída servicio,2024-01-23,2024-01-23 01:35:00,95,75
+INC036,WiFi Piso 2,Caída servicio,2024-02-05,2024-02-05 01:59:00,119,162
+INC037,WiFi Piso 2,Mantenimiento no planificado,2024-03-20,2024-03-20 02:42:00,162,80
+INC038,Sistema de impresión,Degradación,2024-03-04,2024-03-04 01:50:00,110,20
+INC039,Switch Core,Caída servicio,2024-01-12,2024-01-12 01:16:00,76,112
+INC040,Sistema de impresión,Caída servicio,2024-01-26,2024-01-26 02:49:00,169,166
+INC041,Servidor archivos,Degradación,2024-03-10,2024-03-10 03:28:00,208,187
+INC042,Sistema de impresión,Degradación,2024-02-15,2024-02-15 02:07:00,127,93
+INC043,Firewall perimetral,Degradación,2024-03-13,2024-03-13 02:13:00,133,74
+INC044,Firewall perimetral,Mantenimiento no planificado,2024-01-24,2024-01-24 00:11:00,11,61
+INC045,Firewall perimetral,Caída servicio,2024-01-04,2024-01-04 03:54:00,234,125
+INC046,Sistema de impresión,Caída servicio,2024-03-08,2024-03-08 01:36:00,96,45
+INC047,WiFi Piso 2,Degradación,2024-01-13,2024-01-13 01:08:00,68,141
+INC048,WiFi Piso 2,Mantenimiento no planificado,2024-01-08,2024-01-08 03:20:00,200,104
+INC049,WiFi Piso 2,Caída servicio,2024-02-15,2024-02-15 03:39:00,219,65
+INC050,Firewall perimetral,Mantenimiento no planificado,2024-03-16,2024-03-16 01:26:00,86,12
+INC051,Firewall perimetral,Mantenimiento no planificado,2024-03-31,2024-03-31 03:04:00,184,149
+INC052,WiFi Piso 2,Degradación,2024-01-19,2024-01-19 02:29:00,149,143
+INC053,Switch Core,Caída servicio,2024-02-09,2024-02-09 00:49:00,49,28
+INC054,Sistema de impresión,Caída servicio,2024-01-08,2024-01-08 01:04:00,64,10
+INC055,Servidor archivos,Degradación,2024-03-08,2024-03-08 02:07:00,127,162
+INC056,WiFi Piso 2,Degradación,2024-01-26,2024-01-26 03:31:00,211,188
+INC057,Firewall perimetral,Caída servicio,2024-01-23,2024-01-23 04:00:00,240,10
+INC058,WiFi Piso 2,Caída servicio,2024-01-19,2024-01-19 02:35:00,155,139
+INC059,Firewall perimetral,Mantenimiento no planificado,2024-02-16,2024-02-16 00:23:00,23,174
+INC060,Servidor archivos,Degradación,2024-02-20,2024-02-20 02:35:00,155,82

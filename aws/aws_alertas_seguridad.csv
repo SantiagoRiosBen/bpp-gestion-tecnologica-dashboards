@@ -1,0 +1,121 @@
+id_alerta,fecha,id_servicio_aws,severidad,tipo_alerta,estado_alerta
+ALR0001,2024-02-06,RDS,Alta,Intento de acceso no autorizado,Resuelta
+ALR0002,2024-02-21,S3,Alta,Intento de acceso no autorizado,Resuelta
+ALR0003,2024-02-08,LBD,Media,Configuración insegura,En progreso
+ALR0004,2024-03-20,LBD,Informativa,Vulnerabilidad detectada,Abierta
+ALR0005,2024-01-09,CF,Baja,Vulnerabilidad detectada,Resuelta
+ALR0006,2024-02-25,RDS,Media,Configuración insegura,Abierta
+ALR0007,2024-03-25,CF,Media,Vulnerabilidad detectada,Resuelta
+ALR0008,2024-01-15,CF,Media,Intento de acceso no autorizado,En progreso
+ALR0009,2024-02-26,EC2,Informativa,Intento de acceso no autorizado,Resuelta
+ALR0010,2024-03-28,LBD,Alta,Actividad inusual,Resuelta
+ALR0011,2024-03-04,RDS,Media,Configuración insegura,Abierta
+ALR0012,2024-03-15,EC2,Crítica,Configuración insegura,Resuelta
+ALR0013,2024-03-25,LBD,Informativa,Vulnerabilidad detectada,En progreso
+ALR0014,2024-01-26,S3,Informativa,Actividad inusual,Resuelta
+ALR0015,2024-02-25,EC2,Media,Intento de acceso no autorizado,Resuelta
+ALR0016,2024-03-19,RDS,Crítica,Actividad inusual,En progreso
+ALR0017,2024-01-08,EC2,Baja,Intento de acceso no autorizado,En progreso
+ALR0018,2024-03-31,EC2,Media,Actividad inusual,Resuelta
+ALR0019,2024-01-04,LBD,Informativa,Actividad inusual,Resuelta
+ALR0020,2024-02-18,RDS,Baja,Configuración insegura,En progreso
+ALR0021,2024-03-01,S3,Informativa,Vulnerabilidad detectada,En progreso
+ALR0022,2024-01-20,RDS,Baja,Configuración insegura,Resuelta
+ALR0023,2024-01-02,LBD,Informativa,Vulnerabilidad detectada,Abierta
+ALR0024,2024-01-18,LBD,Informativa,Vulnerabilidad detectada,Resuelta
+ALR0025,2024-03-30,RDS,Media,Vulnerabilidad detectada,En progreso
+ALR0026,2024-03-06,LBD,Baja,Actividad inusual,Resuelta
+ALR0027,2024-01-29,CF,Informativa,Vulnerabilidad detectada,Resuelta
+ALR0028,2024-01-31,CF,Media,Actividad inusual,Abierta
+ALR0029,2024-01-05,S3,Crítica,Intento de acceso no autorizado,En progreso
+ALR0030,2024-03-15,RDS,Baja,Actividad inusual,Resuelta
+ALR0031,2024-02-29,CF,Media,Intento de acceso no autorizado,En progreso
+ALR0032,2024-02-01,EC2,Baja,Actividad inusual,Resuelta
+ALR0033,2024-03-19,EC2,Informativa,Vulnerabilidad detectada,Abierta
+ALR0034,2024-02-28,S3,Media,Vulnerabilidad detectada,En progreso
+ALR0035,2024-02-15,S3,Crítica,Configuración insegura,Resuelta
+ALR0036,2024-01-05,S3,Media,Actividad inusual,En progreso
+ALR0037,2024-01-08,CF,Media,Intento de acceso no autorizado,En progreso
+ALR0038,2024-03-25,CF,Crítica,Intento de acceso no autorizado,Resuelta
+ALR0039,2024-02-06,EC2,Baja,Actividad inusual,Abierta
+ALR0040,2024-02-02,S3,Informativa,Intento de acceso no autorizado,Abierta
+ALR0041,2024-01-15,RDS,Media,Vulnerabilidad detectada,Resuelta
+ALR0042,2024-02-17,RDS,Alta,Vulnerabilidad detectada,Abierta
+ALR0043,2024-01-24,S3,Alta,Intento de acceso no autorizado,Resuelta
+ALR0044,2024-01-19,LBD,Media,Vulnerabilidad detectada,Resuelta
+ALR0045,2024-02-19,RDS,Informativa,Configuración insegura,En progreso
+ALR0046,2024-03-14,S3,Media,Intento de acceso no autorizado,Abierta
+ALR0047,2024-01-07,S3,Informativa,Vulnerabilidad detectada,Abierta
+ALR0048,2024-03-09,LBD,Informativa,Vulnerabilidad detectada,Resuelta
+ALR0049,2024-02-03,EC2,Informativa,Actividad inusual,Resuelta
+ALR0050,2024-02-27,CF,Baja,Intento de acceso no autorizado,Abierta
+ALR0051,2024-01-13,LBD,Crítica,Actividad inusual,Resuelta
+ALR0052,2024-02-12,S3,Baja,Vulnerabilidad detectada,Resuelta
+ALR0053,2024-02-29,CF,Alta,Configuración insegura,Resuelta
+ALR0054,2024-03-07,RDS,Baja,Actividad inusual,Resuelta
+ALR0055,2024-03-11,EC2,Informativa,Intento de acceso no autorizado,Abierta
+ALR0056,2024-02-22,LBD,Informativa,Actividad inusual,Abierta
+ALR0057,2024-01-29,EC2,Media,Intento de acceso no autorizado,Abierta
+ALR0058,2024-03-20,RDS,Informativa,Intento de acceso no autorizado,Resuelta
+ALR0059,2024-03-31,CF,Crítica,Configuración insegura,Abierta
+ALR0060,2024-02-18,CF,Media,Configuración insegura,Resuelta
+ALR0061,2024-01-15,LBD,Media,Intento de acceso no autorizado,Abierta
+ALR0062,2024-03-22,LBD,Baja,Actividad inusual,Resuelta
+ALR0063,2024-02-02,EC2,Informativa,Vulnerabilidad detectada,Abierta
+ALR0064,2024-02-19,S3,Baja,Configuración insegura,Abierta
+ALR0065,2024-02-26,RDS,Informativa,Vulnerabilidad detectada,Resuelta
+ALR0066,2024-01-23,CF,Media,Vulnerabilidad detectada,Abierta
+ALR0067,2024-01-28,LBD,Media,Actividad inusual,Abierta
+ALR0068,2024-01-14,S3,Informativa,Vulnerabilidad detectada,Abierta
+ALR0069,2024-01-03,EC2,Alta,Intento de acceso no autorizado,Abierta
+ALR0070,2024-03-26,S3,Baja,Vulnerabilidad detectada,Abierta
+ALR0071,2024-03-14,LBD,Informativa,Vulnerabilidad detectada,Resuelta
+ALR0072,2024-02-25,EC2,Baja,Configuración insegura,Resuelta
+ALR0073,2024-01-01,LBD,Baja,Intento de acceso no autorizado,Resuelta
+ALR0074,2024-03-13,S3,Media,Actividad inusual,Resuelta
+ALR0075,2024-02-21,EC2,Informativa,Actividad inusual,Resuelta
+ALR0076,2024-03-09,LBD,Alta,Actividad inusual,Abierta
+ALR0077,2024-03-23,LBD,Informativa,Configuración insegura,En progreso
+ALR0078,2024-02-08,S3,Media,Vulnerabilidad detectada,Resuelta
+ALR0079,2024-01-11,RDS,Alta,Configuración insegura,En progreso
+ALR0080,2024-01-05,CF,Informativa,Configuración insegura,Resuelta
+ALR0081,2024-03-03,S3,Baja,Vulnerabilidad detectada,Resuelta
+ALR0082,2024-03-09,EC2,Crítica,Intento de acceso no autorizado,Resuelta
+ALR0083,2024-02-13,EC2,Informativa,Vulnerabilidad detectada,Resuelta
+ALR0084,2024-01-16,CF,Informativa,Vulnerabilidad detectada,Resuelta
+ALR0085,2024-03-27,CF,Alta,Configuración insegura,En progreso
+ALR0086,2024-01-10,EC2,Informativa,Vulnerabilidad detectada,Abierta
+ALR0087,2024-03-20,RDS,Informativa,Intento de acceso no autorizado,Resuelta
+ALR0088,2024-01-23,EC2,Media,Vulnerabilidad detectada,Resuelta
+ALR0089,2024-03-19,EC2,Informativa,Intento de acceso no autorizado,En progreso
+ALR0090,2024-03-04,EC2,Media,Configuración insegura,Resuelta
+ALR0091,2024-02-24,LBD,Baja,Actividad inusual,Resuelta
+ALR0092,2024-01-16,RDS,Crítica,Actividad inusual,En progreso
+ALR0093,2024-01-28,S3,Alta,Intento de acceso no autorizado,En progreso
+ALR0094,2024-01-16,RDS,Baja,Actividad inusual,Resuelta
+ALR0095,2024-03-11,CF,Informativa,Intento de acceso no autorizado,Abierta
+ALR0096,2024-01-18,CF,Informativa,Vulnerabilidad detectada,Resuelta
+ALR0097,2024-01-21,EC2,Informativa,Intento de acceso no autorizado,En progreso
+ALR0098,2024-01-23,CF,Crítica,Actividad inusual,Resuelta
+ALR0099,2024-02-23,LBD,Media,Configuración insegura,Resuelta
+ALR0100,2024-01-27,LBD,Informativa,Vulnerabilidad detectada,Abierta
+ALR0101,2024-01-31,EC2,Crítica,Configuración insegura,Resuelta
+ALR0102,2024-03-04,S3,Media,Actividad inusual,Abierta
+ALR0103,2024-02-23,EC2,Informativa,Intento de acceso no autorizado,Abierta
+ALR0104,2024-03-20,CF,Baja,Configuración insegura,Resuelta
+ALR0105,2024-02-29,S3,Alta,Intento de acceso no autorizado,Resuelta
+ALR0106,2024-01-25,LBD,Informativa,Vulnerabilidad detectada,Abierta
+ALR0107,2024-01-23,EC2,Informativa,Actividad inusual,Resuelta
+ALR0108,2024-02-06,CF,Informativa,Vulnerabilidad detectada,Abierta
+ALR0109,2024-01-06,CF,Informativa,Configuración insegura,Abierta
+ALR0110,2024-01-21,EC2,Alta,Intento de acceso no autorizado,En progreso
+ALR0111,2024-01-31,S3,Media,Vulnerabilidad detectada,En progreso
+ALR0112,2024-01-26,RDS,Media,Intento de acceso no autorizado,Resuelta
+ALR0113,2024-02-11,LBD,Informativa,Configuración insegura,Abierta
+ALR0114,2024-02-18,CF,Alta,Vulnerabilidad detectada,Abierta
+ALR0115,2024-01-07,CF,Alta,Vulnerabilidad detectada,Abierta
+ALR0116,2024-01-23,RDS,Baja,Actividad inusual,Abierta
+ALR0117,2024-02-04,CF,Informativa,Intento de acceso no autorizado,Abierta
+ALR0118,2024-02-05,LBD,Informativa,Vulnerabilidad detectada,Resuelta
+ALR0119,2024-01-22,S3,Alta,Configuración insegura,Abierta
+ALR0120,2024-03-22,CF,Crítica,Configuración insegura,Resuelta

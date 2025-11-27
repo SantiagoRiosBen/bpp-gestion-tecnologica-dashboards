@@ -1,0 +1,44 @@
+id_hito,id_proyecto,nombre_hito,fecha_hito_planificada,fecha_hito_real,estado_hito
+H001,PJT01,Hito 1 - Proyecto TI 01,2024-01-18,2024-01-14,Cumplido
+H002,PJT01,Hito 2 - Proyecto TI 01,2024-01-21,2024-01-19,Cumplido
+H003,PJT01,Hito 3 - Proyecto TI 01,2024-02-13,2024-02-12,Cumplido
+H004,PJT01,Hito 4 - Proyecto TI 01,2024-02-14,2024-02-14,Cumplido
+H005,PJT02,Hito 1 - Proyecto TI 02,2024-01-12,,Planeado
+H006,PJT02,Hito 2 - Proyecto TI 02,2024-02-01,,Planeado
+H007,PJT02,Hito 3 - Proyecto TI 02,2024-02-06,,Planeado
+H008,PJT02,Hito 4 - Proyecto TI 02,2024-02-15,,Planeado
+H009,PJT02,Hito 5 - Proyecto TI 02,2024-03-07,,Planeado
+H010,PJT02,Hito 6 - Proyecto TI 02,2024-03-09,,Planeado
+H011,PJT03,Hito 1 - Proyecto TI 03,2024-01-31,2024-02-03,Cumplido
+H012,PJT03,Hito 2 - Proyecto TI 03,2024-02-07,2024-02-04,Cumplido
+H013,PJT03,Hito 3 - Proyecto TI 03,2024-02-17,,En proceso
+H014,PJT03,Hito 4 - Proyecto TI 03,2024-02-21,,En proceso
+H015,PJT03,Hito 5 - Proyecto TI 03,2024-03-05,2024-03-10,Cumplido
+H016,PJT04,Hito 1 - Proyecto TI 04,2024-01-22,,Planeado
+H017,PJT04,Hito 2 - Proyecto TI 04,2024-02-16,,Planeado
+H018,PJT04,Hito 3 - Proyecto TI 04,2024-03-13,,Planeado
+H019,PJT04,Hito 4 - Proyecto TI 04,2024-03-26,,Planeado
+H020,PJT05,Hito 1 - Proyecto TI 05,2024-01-27,,Planeado
+H021,PJT05,Hito 2 - Proyecto TI 05,2024-01-28,,Planeado
+H022,PJT05,Hito 3 - Proyecto TI 05,2024-02-10,,Planeado
+H023,PJT05,Hito 4 - Proyecto TI 05,2024-02-21,,Planeado
+H024,PJT06,Hito 1 - Proyecto TI 06,2024-02-04,2024-02-06,Cumplido
+H025,PJT06,Hito 2 - Proyecto TI 06,2024-02-15,,En proceso
+H026,PJT06,Hito 3 - Proyecto TI 06,2024-02-22,,En proceso
+H027,PJT07,Hito 1 - Proyecto TI 07,2024-02-03,,En proceso
+H028,PJT07,Hito 2 - Proyecto TI 07,2024-02-04,2024-02-03,Cumplido
+H029,PJT07,Hito 3 - Proyecto TI 07,2024-02-06,2024-02-10,Cumplido
+H030,PJT07,Hito 4 - Proyecto TI 07,2024-02-26,,En proceso
+H031,PJT07,Hito 5 - Proyecto TI 07,2024-03-29,2024-04-03,Cumplido
+H032,PJT08,Hito 1 - Proyecto TI 08,2024-02-29,,En proceso
+H033,PJT08,Hito 2 - Proyecto TI 08,2024-03-02,2024-03-09,Cumplido
+H034,PJT08,Hito 3 - Proyecto TI 08,2024-04-13,,En proceso
+H035,PJT08,Hito 4 - Proyecto TI 08,2024-05-02,2024-05-07,Cumplido
+H036,PJT08,Hito 5 - Proyecto TI 08,2024-05-07,2024-05-07,Cumplido
+H037,PJT08,Hito 6 - Proyecto TI 08,2024-05-10,2024-05-12,Cumplido
+H038,PJT09,Hito 1 - Proyecto TI 09,2024-01-22,2024-01-19,Cumplido
+H039,PJT09,Hito 2 - Proyecto TI 09,2024-02-12,2024-02-19,Cumplido
+H040,PJT09,Hito 3 - Proyecto TI 09,2024-02-14,2024-02-12,Cumplido
+H041,PJT10,Hito 1 - Proyecto TI 10,2024-02-07,,Planeado
+H042,PJT10,Hito 2 - Proyecto TI 10,2024-03-11,,Planeado
+H043,PJT10,Hito 3 - Proyecto TI 10,2024-04-03,,Planeado
