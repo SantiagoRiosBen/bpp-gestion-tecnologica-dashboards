@@ -1,6 +1,0 @@
-id_servicio_aws,nombre_servicio_aws
-EC2,Amazon EC2
-RDS,Amazon RDS
-S3,Amazon S3
-LBD,AWS Lambda
-CF,Amazon CloudFront
