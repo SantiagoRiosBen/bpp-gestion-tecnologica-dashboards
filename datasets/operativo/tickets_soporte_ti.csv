@@ -1,0 +1,301 @@
+id_ticket,tipo_ticket,categoria,id_area,usuario,fecha_apertura,fecha_cierre,estado,prioridad,sla_objetivo_horas,tiempo_real_resolucion_horas,tecnico_responsable
+TIC0001,Consulta,Software,ADM,Usuario B,2024-01-06,2024-01-07 16:00:00,Cerrado,Baja,24,40.0,Técnico 1
+TIC0002,Incidente,Otros,ADM,Usuario B,2024-02-15,,Abierto,Alta,48,,Técnico 2
+TIC0003,Requerimiento,Red,ADM,Usuario B,2024-01-04,2024-01-04 23:00:00,Cerrado,Baja,24,23.0,Técnico 1
+TIC0004,Requerimiento,Hardware,CULT,Usuario C,2024-02-18,,Abierto,Alta,8,,Técnico 1
+TIC0005,Requerimiento,Red,REF,Usuario D,2024-01-04,2024-01-05 01:00:00,Cerrado,Baja,8,25.0,Técnico 3
+TIC0006,Requerimiento,Red,TI,Usuario A,2024-02-12,2024-02-12 04:00:00,Cerrado,Alta,8,4.0,Técnico 3
+TIC0007,Consulta,Red,TI,Usuario A,2024-02-25,2024-02-26 21:00:00,Cerrado,Media,24,45.0,Técnico 3
+TIC0008,Consulta,Otros,TI,Usuario B,2024-01-25,2024-01-26 09:00:00,Cerrado,Media,8,33.0,Técnico 2
+TIC0009,Consulta,Software,REF,Usuario C,2024-01-09,2024-01-10 19:00:00,Cerrado,Baja,48,43.0,Técnico 2
+TIC0010,Consulta,Hardware,CULT,Usuario D,2024-02-11,2024-02-13 04:00:00,Cerrado,Baja,8,52.0,Técnico 3
+TIC0011,Incidente,Software,REF,Usuario D,2024-01-23,2024-01-24 15:00:00,Cerrado,Baja,24,39.0,Técnico 3
+TIC0012,Consulta,Otros,ADM,Usuario D,2024-03-24,2024-03-25 18:00:00,Cerrado,Baja,48,42.0,Técnico 1
+TIC0013,Consulta,Red,ADM,Usuario C,2024-03-25,2024-03-25 11:00:00,Cerrado,Alta,8,11.0,Técnico 1
+TIC0014,Requerimiento,Otros,DIR,Usuario D,2024-01-19,2024-01-19 04:00:00,Cerrado,Baja,48,4.0,Técnico 3
+TIC0015,Incidente,Hardware,DIR,Usuario D,2024-01-25,2024-01-27 02:00:00,Cerrado,Alta,8,50.0,Técnico 1
+TIC0016,Incidente,Hardware,CULT,Usuario D,2024-03-30,2024-04-01 19:00:00,Cerrado,Baja,8,67.0,Técnico 3
+TIC0017,Requerimiento,Otros,TI,Usuario D,2024-03-12,,Vencido,Alta,48,,Técnico 3
+TIC0018,Consulta,Hardware,REF,Usuario D,2024-03-01,2024-03-03 10:00:00,Cerrado,Baja,48,58.0,Técnico 1
+TIC0019,Requerimiento,Red,REF,Usuario C,2024-02-05,2024-02-07 09:00:00,Cerrado,Baja,8,57.0,Técnico 1
+TIC0020,Incidente,Hardware,ADM,Usuario D,2024-01-18,2024-01-18 20:00:00,Cerrado,Media,48,20.0,Técnico 2
+TIC0021,Consulta,Hardware,CULT,Usuario A,2024-03-10,2024-03-12 12:00:00,Cerrado,Baja,24,60.0,Técnico 2
+TIC0022,Consulta,Red,CULT,Usuario B,2024-03-02,,Vencido,Media,24,,Técnico 1
+TIC0023,Consulta,Otros,CULT,Usuario B,2024-02-04,2024-02-06 08:00:00,Cerrado,Media,24,56.0,Técnico 1
+TIC0024,Consulta,Otros,TI,Usuario A,2024-03-20,2024-03-22 21:00:00,Cerrado,Alta,48,69.0,Técnico 3
+TIC0025,Requerimiento,Hardware,REF,Usuario C,2024-02-24,,Abierto,Alta,8,,Técnico 2
+TIC0026,Requerimiento,Otros,CULT,Usuario A,2024-02-11,,Abierto,Media,24,,Técnico 1
+TIC0027,Consulta,Red,DIR,Usuario A,2024-03-10,,Vencido,Alta,8,,Técnico 1
+TIC0028,Consulta,Hardware,CULT,Usuario A,2024-01-26,2024-01-26 03:00:00,Cerrado,Baja,8,3.0,Técnico 1
+TIC0029,Consulta,Hardware,TI,Usuario A,2024-02-29,,Abierto,Alta,48,,Técnico 2
+TIC0030,Incidente,Otros,ADM,Usuario B,2024-01-14,,Vencido,Alta,24,,Técnico 3
+TIC0031,Requerimiento,Software,TI,Usuario C,2024-02-08,,Abierto,Alta,24,,Técnico 3
+TIC0032,Requerimiento,Otros,DIR,Usuario C,2024-03-23,2024-03-24 20:00:00,Cerrado,Baja,24,44.0,Técnico 2
+TIC0033,Requerimiento,Red,TI,Usuario D,2024-03-31,2024-03-31 20:00:00,Cerrado,Media,48,20.0,Técnico 3
+TIC0034,Requerimiento,Hardware,REF,Usuario B,2024-03-16,2024-03-17 11:00:00,Cerrado,Media,8,35.0,Técnico 3
+TIC0035,Requerimiento,Otros,ADM,Usuario B,2024-03-19,2024-03-21 01:00:00,Cerrado,Media,24,49.0,Técnico 2
+TIC0036,Consulta,Red,DIR,Usuario B,2024-02-13,,Abierto,Alta,48,,Técnico 1
+TIC0037,Consulta,Hardware,CULT,Usuario D,2024-02-22,2024-02-24 15:00:00,Cerrado,Media,48,63.0,Técnico 1
+TIC0038,Requerimiento,Hardware,TI,Usuario D,2024-01-12,2024-01-13 14:00:00,Cerrado,Baja,24,38.0,Técnico 3
+TIC0039,Requerimiento,Red,CULT,Usuario C,2024-02-14,,Vencido,Media,24,,Técnico 1
+TIC0040,Consulta,Hardware,ADM,Usuario D,2024-01-16,2024-01-17 01:00:00,Cerrado,Media,8,25.0,Técnico 3
+TIC0041,Incidente,Software,REF,Usuario C,2024-03-16,2024-03-18 20:00:00,Cerrado,Alta,8,68.0,Técnico 2
+TIC0042,Requerimiento,Software,TI,Usuario B,2024-01-02,2024-01-04 21:00:00,Cerrado,Baja,8,69.0,Técnico 2
+TIC0043,Requerimiento,Otros,CULT,Usuario B,2024-01-14,2024-01-14 02:00:00,Cerrado,Alta,24,2.0,Técnico 2
+TIC0044,Consulta,Otros,DIR,Usuario A,2024-03-02,,Abierto,Alta,24,,Técnico 1
+TIC0045,Requerimiento,Hardware,TI,Usuario B,2024-03-13,2024-03-14 15:00:00,Cerrado,Baja,8,39.0,Técnico 2
+TIC0046,Consulta,Otros,TI,Usuario A,2024-02-27,2024-02-29 09:00:00,Cerrado,Baja,24,57.0,Técnico 3
+TIC0047,Incidente,Red,DIR,Usuario B,2024-01-13,2024-01-14 03:00:00,Cerrado,Alta,48,27.0,Técnico 3
+TIC0048,Requerimiento,Otros,TI,Usuario C,2024-01-10,2024-01-10 21:00:00,Cerrado,Alta,48,21.0,Técnico 1
+TIC0049,Requerimiento,Otros,ADM,Usuario B,2024-02-06,2024-02-07 13:00:00,Cerrado,Media,8,37.0,Técnico 1
+TIC0050,Incidente,Red,DIR,Usuario B,2024-03-10,2024-03-11 05:00:00,Cerrado,Media,8,29.0,Técnico 3
+TIC0051,Consulta,Otros,REF,Usuario D,2024-03-13,2024-03-14 13:00:00,Cerrado,Media,48,37.0,Técnico 3
+TIC0052,Consulta,Software,REF,Usuario C,2024-03-10,2024-03-12 16:00:00,Cerrado,Alta,24,64.0,Técnico 1
+TIC0053,Incidente,Red,DIR,Usuario D,2024-01-30,,Vencido,Baja,48,,Técnico 3
+TIC0054,Incidente,Otros,CULT,Usuario D,2024-02-26,2024-02-27 12:00:00,Cerrado,Media,48,36.0,Técnico 2
+TIC0055,Consulta,Hardware,CULT,Usuario D,2024-02-12,2024-02-13 18:00:00,Cerrado,Media,24,42.0,Técnico 3
+TIC0056,Requerimiento,Software,REF,Usuario A,2024-02-21,2024-02-23 23:00:00,Cerrado,Media,24,71.0,Técnico 3
+TIC0057,Requerimiento,Software,TI,Usuario D,2024-01-01,2024-01-03 22:00:00,Cerrado,Baja,8,70.0,Técnico 2
+TIC0058,Consulta,Hardware,CULT,Usuario D,2024-01-07,2024-01-08 03:00:00,Cerrado,Alta,24,27.0,Técnico 1
+TIC0059,Consulta,Red,DIR,Usuario D,2024-03-21,2024-03-22 07:00:00,Cerrado,Alta,48,31.0,Técnico 1
+TIC0060,Consulta,Hardware,REF,Usuario C,2024-01-15,,Vencido,Media,24,,Técnico 2
+TIC0061,Consulta,Hardware,ADM,Usuario B,2024-03-01,2024-03-02 08:00:00,Cerrado,Alta,24,32.0,Técnico 2
+TIC0062,Consulta,Red,REF,Usuario C,2024-02-23,,Vencido,Baja,8,,Técnico 3
+TIC0063,Requerimiento,Otros,CULT,Usuario C,2024-03-25,,Abierto,Baja,48,,Técnico 3
+TIC0064,Consulta,Hardware,ADM,Usuario D,2024-02-18,,Vencido,Alta,48,,Técnico 2
+TIC0065,Requerimiento,Otros,ADM,Usuario A,2024-01-06,2024-01-07 17:00:00,Cerrado,Alta,24,41.0,Técnico 3
+TIC0066,Requerimiento,Otros,TI,Usuario A,2024-03-16,,Abierto,Baja,8,,Técnico 1
+TIC0067,Consulta,Red,TI,Usuario D,2024-02-22,2024-02-22 20:00:00,Cerrado,Baja,24,20.0,Técnico 1
+TIC0068,Consulta,Red,CULT,Usuario A,2024-02-12,2024-02-14 21:00:00,Cerrado,Baja,48,69.0,Técnico 1
+TIC0069,Consulta,Software,DIR,Usuario A,2024-01-31,,Vencido,Media,24,,Técnico 1
+TIC0070,Requerimiento,Software,DIR,Usuario C,2024-03-29,,Vencido,Media,24,,Técnico 2
+TIC0071,Incidente,Hardware,ADM,Usuario D,2024-01-19,2024-01-20 08:00:00,Cerrado,Baja,8,32.0,Técnico 3
+TIC0072,Consulta,Hardware,CULT,Usuario C,2024-01-31,,Vencido,Media,8,,Técnico 2
+TIC0073,Incidente,Otros,TI,Usuario A,2024-03-26,,Abierto,Media,24,,Técnico 2
+TIC0074,Requerimiento,Otros,REF,Usuario C,2024-03-16,2024-03-17 15:00:00,Cerrado,Alta,48,39.0,Técnico 2
+TIC0075,Consulta,Red,REF,Usuario C,2024-03-02,2024-03-02 14:00:00,Cerrado,Alta,48,14.0,Técnico 3
+TIC0076,Requerimiento,Software,CULT,Usuario B,2024-02-20,2024-02-21 12:00:00,Cerrado,Baja,48,36.0,Técnico 2
+TIC0077,Consulta,Hardware,DIR,Usuario A,2024-01-29,2024-01-30 01:00:00,Cerrado,Media,48,25.0,Técnico 2
+TIC0078,Consulta,Software,REF,Usuario D,2024-01-05,2024-01-06 23:00:00,Cerrado,Alta,24,47.0,Técnico 1
+TIC0079,Requerimiento,Red,TI,Usuario B,2024-01-17,,Abierto,Media,48,,Técnico 2
+TIC0080,Incidente,Otros,ADM,Usuario D,2024-02-07,,Abierto,Baja,8,,Técnico 2
+TIC0081,Consulta,Software,REF,Usuario C,2024-01-12,2024-01-14 03:00:00,Cerrado,Baja,24,51.0,Técnico 2
+TIC0082,Consulta,Hardware,DIR,Usuario C,2024-03-22,2024-03-24 00:00:00,Cerrado,Baja,24,48.0,Técnico 1
+TIC0083,Consulta,Otros,REF,Usuario D,2024-03-23,2024-03-23 09:00:00,Cerrado,Alta,48,9.0,Técnico 1
+TIC0084,Incidente,Otros,DIR,Usuario B,2024-01-06,2024-01-06 05:00:00,Cerrado,Media,8,5.0,Técnico 2
+TIC0085,Requerimiento,Hardware,DIR,Usuario D,2024-02-17,2024-02-19 22:00:00,Cerrado,Media,24,70.0,Técnico 1
+TIC0086,Incidente,Otros,REF,Usuario C,2024-03-29,2024-03-31 00:00:00,Cerrado,Baja,8,48.0,Técnico 3
+TIC0087,Incidente,Hardware,CULT,Usuario B,2024-02-15,2024-02-15 08:00:00,Cerrado,Baja,8,8.0,Técnico 3
+TIC0088,Consulta,Red,ADM,Usuario B,2024-03-17,2024-03-17 03:00:00,Cerrado,Alta,8,3.0,Técnico 3
+TIC0089,Consulta,Hardware,ADM,Usuario A,2024-01-27,,Abierto,Media,24,,Técnico 1
+TIC0090,Incidente,Hardware,DIR,Usuario A,2024-01-17,2024-01-19 22:00:00,Cerrado,Media,8,70.0,Técnico 1
+TIC0091,Consulta,Red,ADM,Usuario D,2024-03-16,2024-03-17 18:00:00,Cerrado,Baja,8,42.0,Técnico 1
+TIC0092,Incidente,Red,TI,Usuario D,2024-01-09,2024-01-11 13:00:00,Cerrado,Baja,48,61.0,Técnico 1
+TIC0093,Incidente,Red,DIR,Usuario D,2024-03-19,2024-03-19 06:00:00,Cerrado,Media,24,6.0,Técnico 2
+TIC0094,Requerimiento,Otros,DIR,Usuario B,2024-03-28,2024-03-28 14:00:00,Cerrado,Alta,8,14.0,Técnico 1
+TIC0095,Requerimiento,Otros,TI,Usuario D,2024-02-05,2024-02-07 23:00:00,Cerrado,Baja,48,71.0,Técnico 3
+TIC0096,Consulta,Software,TI,Usuario B,2024-02-25,,Abierto,Media,48,,Técnico 2
+TIC0097,Consulta,Otros,CULT,Usuario A,2024-01-30,2024-02-01 05:00:00,Cerrado,Media,24,53.0,Técnico 2
+TIC0098,Incidente,Hardware,CULT,Usuario A,2024-02-10,2024-02-11 09:00:00,Cerrado,Alta,48,33.0,Técnico 1
+TIC0099,Incidente,Red,TI,Usuario C,2024-02-25,2024-02-25 13:00:00,Cerrado,Baja,8,13.0,Técnico 1
+TIC0100,Requerimiento,Otros,DIR,Usuario C,2024-02-22,,Abierto,Media,48,,Técnico 1
+TIC0101,Requerimiento,Otros,DIR,Usuario C,2024-03-14,2024-03-16 17:00:00,Cerrado,Alta,8,65.0,Técnico 2
+TIC0102,Incidente,Software,REF,Usuario B,2024-03-14,,Abierto,Media,48,,Técnico 3
+TIC0103,Consulta,Hardware,TI,Usuario D,2024-02-09,2024-02-10 20:00:00,Cerrado,Alta,8,44.0,Técnico 1
+TIC0104,Requerimiento,Hardware,CULT,Usuario C,2024-03-22,2024-03-22 04:00:00,Cerrado,Alta,24,4.0,Técnico 2
+TIC0105,Incidente,Software,ADM,Usuario A,2024-02-09,,Abierto,Baja,8,,Técnico 1
+TIC0106,Requerimiento,Otros,CULT,Usuario C,2024-02-04,2024-02-06 09:00:00,Cerrado,Alta,48,57.0,Técnico 3
+TIC0107,Requerimiento,Red,TI,Usuario C,2024-01-15,2024-01-16 21:00:00,Cerrado,Alta,48,45.0,Técnico 1
+TIC0108,Requerimiento,Red,ADM,Usuario C,2024-02-20,2024-02-20 08:00:00,Cerrado,Media,8,8.0,Técnico 1
+TIC0109,Consulta,Hardware,CULT,Usuario B,2024-01-01,2024-01-03 16:00:00,Cerrado,Baja,8,64.0,Técnico 3
+TIC0110,Requerimiento,Software,DIR,Usuario A,2024-03-26,2024-03-27 22:00:00,Cerrado,Media,24,46.0,Técnico 3
+TIC0111,Requerimiento,Otros,DIR,Usuario A,2024-02-24,2024-02-26 04:00:00,Cerrado,Media,24,52.0,Técnico 1
+TIC0112,Incidente,Red,CULT,Usuario B,2024-03-20,,Abierto,Media,8,,Técnico 3
+TIC0113,Incidente,Red,REF,Usuario C,2024-02-21,2024-02-23 20:00:00,Cerrado,Alta,48,68.0,Técnico 1
+TIC0114,Consulta,Hardware,REF,Usuario B,2024-03-06,2024-03-06 15:00:00,Cerrado,Alta,24,15.0,Técnico 1
+TIC0115,Incidente,Hardware,DIR,Usuario D,2024-01-19,2024-01-20 09:00:00,Cerrado,Media,48,33.0,Técnico 3
+TIC0116,Incidente,Red,REF,Usuario D,2024-03-15,2024-03-17 10:00:00,Cerrado,Alta,48,58.0,Técnico 2
+TIC0117,Incidente,Software,TI,Usuario C,2024-02-26,,Abierto,Media,24,,Técnico 2
+TIC0118,Consulta,Red,DIR,Usuario D,2024-01-05,2024-01-05 08:00:00,Cerrado,Media,8,8.0,Técnico 3
+TIC0119,Requerimiento,Hardware,TI,Usuario B,2024-03-11,2024-03-11 06:00:00,Cerrado,Alta,24,6.0,Técnico 2
+TIC0120,Incidente,Software,ADM,Usuario B,2024-01-14,,Vencido,Baja,48,,Técnico 2
+TIC0121,Requerimiento,Hardware,REF,Usuario D,2024-02-26,2024-02-28 20:00:00,Cerrado,Media,24,68.0,Técnico 2
+TIC0122,Incidente,Red,REF,Usuario D,2024-03-27,,Abierto,Media,8,,Técnico 2
+TIC0123,Consulta,Hardware,REF,Usuario D,2024-03-25,2024-03-25 20:00:00,Cerrado,Alta,24,20.0,Técnico 3
+TIC0124,Incidente,Otros,REF,Usuario A,2024-03-31,2024-03-31 11:00:00,Cerrado,Baja,48,11.0,Técnico 3
+TIC0125,Incidente,Red,ADM,Usuario C,2024-02-24,2024-02-26 18:00:00,Cerrado,Media,24,66.0,Técnico 1
+TIC0126,Consulta,Red,TI,Usuario A,2024-01-29,2024-01-29 18:00:00,Cerrado,Baja,8,18.0,Técnico 2
+TIC0127,Consulta,Hardware,ADM,Usuario B,2024-03-20,2024-03-20 17:00:00,Cerrado,Baja,8,17.0,Técnico 2
+TIC0128,Requerimiento,Hardware,TI,Usuario D,2024-01-06,2024-01-08 05:00:00,Cerrado,Alta,24,53.0,Técnico 3
+TIC0129,Consulta,Otros,REF,Usuario D,2024-01-31,,Vencido,Media,8,,Técnico 2
+TIC0130,Incidente,Hardware,TI,Usuario C,2024-02-18,2024-02-20 17:00:00,Cerrado,Alta,8,65.0,Técnico 3
+TIC0131,Incidente,Software,TI,Usuario C,2024-03-02,2024-03-04 00:00:00,Cerrado,Alta,48,48.0,Técnico 1
+TIC0132,Incidente,Hardware,DIR,Usuario D,2024-02-04,,Vencido,Media,24,,Técnico 1
+TIC0133,Incidente,Red,CULT,Usuario C,2024-02-23,2024-02-23 07:00:00,Cerrado,Alta,8,7.0,Técnico 1
+TIC0134,Incidente,Red,ADM,Usuario C,2024-02-10,,Abierto,Media,8,,Técnico 3
+TIC0135,Requerimiento,Software,DIR,Usuario B,2024-01-18,2024-01-20 13:00:00,Cerrado,Alta,8,61.0,Técnico 3
+TIC0136,Incidente,Red,REF,Usuario A,2024-03-18,2024-03-20 20:00:00,Cerrado,Alta,8,68.0,Técnico 2
+TIC0137,Incidente,Otros,TI,Usuario B,2024-03-22,2024-03-24 11:00:00,Cerrado,Baja,48,59.0,Técnico 1
+TIC0138,Requerimiento,Red,TI,Usuario B,2024-02-07,2024-02-09 07:00:00,Cerrado,Baja,8,55.0,Técnico 3
+TIC0139,Consulta,Software,TI,Usuario A,2024-01-11,,Vencido,Media,48,,Técnico 2
+TIC0140,Requerimiento,Red,DIR,Usuario A,2024-01-06,,Vencido,Media,48,,Técnico 1
+TIC0141,Requerimiento,Red,DIR,Usuario C,2024-03-25,,Abierto,Baja,8,,Técnico 1
+TIC0142,Incidente,Otros,ADM,Usuario A,2024-03-28,,Vencido,Baja,48,,Técnico 2
+TIC0143,Requerimiento,Hardware,REF,Usuario D,2024-01-05,2024-01-06 14:00:00,Cerrado,Baja,8,38.0,Técnico 2
+TIC0144,Incidente,Hardware,REF,Usuario C,2024-02-02,,Abierto,Media,24,,Técnico 1
+TIC0145,Incidente,Otros,REF,Usuario D,2024-02-17,,Abierto,Baja,24,,Técnico 2
+TIC0146,Incidente,Software,CULT,Usuario D,2024-02-17,2024-02-19 19:00:00,Cerrado,Baja,48,67.0,Técnico 1
+TIC0147,Requerimiento,Software,REF,Usuario D,2024-03-10,2024-03-11 14:00:00,Cerrado,Baja,24,38.0,Técnico 3
+TIC0148,Consulta,Red,DIR,Usuario C,2024-02-24,2024-02-24 22:00:00,Cerrado,Baja,24,22.0,Técnico 2
+TIC0149,Consulta,Otros,TI,Usuario B,2024-02-05,2024-02-05 08:00:00,Cerrado,Alta,24,8.0,Técnico 1
+TIC0150,Requerimiento,Software,REF,Usuario D,2024-03-18,2024-03-20 09:00:00,Cerrado,Baja,8,57.0,Técnico 1
+TIC0151,Incidente,Red,CULT,Usuario B,2024-03-18,2024-03-18 20:00:00,Cerrado,Baja,24,20.0,Técnico 2
+TIC0152,Consulta,Hardware,DIR,Usuario B,2024-02-20,2024-02-21 17:00:00,Cerrado,Media,8,41.0,Técnico 3
+TIC0153,Incidente,Red,CULT,Usuario C,2024-02-19,2024-02-22 00:00:00,Cerrado,Baja,48,72.0,Técnico 2
+TIC0154,Consulta,Software,ADM,Usuario D,2024-01-26,2024-01-26 16:00:00,Cerrado,Alta,24,16.0,Técnico 3
+TIC0155,Consulta,Red,ADM,Usuario B,2024-02-10,2024-02-11 21:00:00,Cerrado,Media,24,45.0,Técnico 3
+TIC0156,Incidente,Hardware,CULT,Usuario C,2024-01-29,,Vencido,Baja,8,,Técnico 3
+TIC0157,Incidente,Hardware,DIR,Usuario C,2024-02-17,,Abierto,Media,48,,Técnico 3
+TIC0158,Incidente,Otros,DIR,Usuario C,2024-03-02,2024-03-04 20:00:00,Cerrado,Baja,48,68.0,Técnico 1
+TIC0159,Consulta,Red,TI,Usuario B,2024-02-27,2024-02-29 12:00:00,Cerrado,Alta,8,60.0,Técnico 2
+TIC0160,Incidente,Hardware,ADM,Usuario C,2024-03-05,,Abierto,Baja,24,,Técnico 1
+TIC0161,Consulta,Software,ADM,Usuario C,2024-02-14,,Abierto,Alta,24,,Técnico 3
+TIC0162,Incidente,Hardware,TI,Usuario B,2024-02-08,2024-02-10 21:00:00,Cerrado,Baja,48,69.0,Técnico 3
+TIC0163,Incidente,Software,DIR,Usuario C,2024-03-18,,Abierto,Baja,8,,Técnico 1
+TIC0164,Requerimiento,Software,TI,Usuario C,2024-03-14,2024-03-16 06:00:00,Cerrado,Media,24,54.0,Técnico 1
+TIC0165,Incidente,Software,DIR,Usuario D,2024-03-28,2024-03-30 04:00:00,Cerrado,Media,48,52.0,Técnico 2
+TIC0166,Consulta,Hardware,REF,Usuario C,2024-02-29,2024-03-01 03:00:00,Cerrado,Media,24,27.0,Técnico 1
+TIC0167,Incidente,Red,CULT,Usuario C,2024-02-17,2024-02-19 18:00:00,Cerrado,Media,8,66.0,Técnico 1
+TIC0168,Incidente,Otros,CULT,Usuario B,2024-01-19,2024-01-19 13:00:00,Cerrado,Media,48,13.0,Técnico 3
+TIC0169,Requerimiento,Otros,CULT,Usuario C,2024-02-10,,Abierto,Media,48,,Técnico 1
+TIC0170,Requerimiento,Hardware,TI,Usuario A,2024-01-12,2024-01-14 03:00:00,Cerrado,Alta,8,51.0,Técnico 2
+TIC0171,Incidente,Software,CULT,Usuario C,2024-03-04,2024-03-06 13:00:00,Cerrado,Baja,8,61.0,Técnico 2
+TIC0172,Incidente,Software,TI,Usuario C,2024-02-21,2024-02-22 23:00:00,Cerrado,Baja,48,47.0,Técnico 2
+TIC0173,Incidente,Red,TI,Usuario B,2024-01-10,2024-01-12 02:00:00,Cerrado,Alta,48,50.0,Técnico 2
+TIC0174,Consulta,Red,ADM,Usuario D,2024-02-17,2024-02-18 20:00:00,Cerrado,Baja,8,44.0,Técnico 1
+TIC0175,Requerimiento,Red,TI,Usuario B,2024-01-06,2024-01-06 05:00:00,Cerrado,Baja,24,5.0,Técnico 3
+TIC0176,Consulta,Red,CULT,Usuario C,2024-01-18,,Vencido,Baja,8,,Técnico 2
+TIC0177,Requerimiento,Red,DIR,Usuario C,2024-03-05,2024-03-07 18:00:00,Cerrado,Baja,24,66.0,Técnico 1
+TIC0178,Requerimiento,Software,CULT,Usuario B,2024-02-23,,Abierto,Baja,48,,Técnico 1
+TIC0179,Incidente,Otros,ADM,Usuario A,2024-03-15,2024-03-17 14:00:00,Cerrado,Alta,8,62.0,Técnico 1
+TIC0180,Requerimiento,Otros,ADM,Usuario D,2024-02-26,2024-02-27 17:00:00,Cerrado,Baja,48,41.0,Técnico 3
+TIC0181,Consulta,Red,CULT,Usuario D,2024-01-08,2024-01-08 18:00:00,Cerrado,Media,48,18.0,Técnico 1
+TIC0182,Consulta,Red,REF,Usuario D,2024-02-28,2024-03-01 21:00:00,Cerrado,Alta,48,69.0,Técnico 1
+TIC0183,Consulta,Red,ADM,Usuario D,2024-02-05,2024-02-08 00:00:00,Cerrado,Media,24,72.0,Técnico 2
+TIC0184,Consulta,Red,DIR,Usuario D,2024-02-14,,Vencido,Media,24,,Técnico 2
+TIC0185,Consulta,Software,CULT,Usuario C,2024-01-19,2024-01-20 14:00:00,Cerrado,Baja,24,38.0,Técnico 2
+TIC0186,Incidente,Red,REF,Usuario A,2024-01-28,,Abierto,Baja,48,,Técnico 3
+TIC0187,Incidente,Hardware,ADM,Usuario A,2024-03-16,2024-03-17 07:00:00,Cerrado,Media,48,31.0,Técnico 2
+TIC0188,Incidente,Hardware,TI,Usuario D,2024-03-01,2024-03-01 13:00:00,Cerrado,Baja,8,13.0,Técnico 2
+TIC0189,Consulta,Red,REF,Usuario A,2024-03-02,,Abierto,Alta,24,,Técnico 3
+TIC0190,Incidente,Software,CULT,Usuario A,2024-03-14,2024-03-15 06:00:00,Cerrado,Media,8,30.0,Técnico 2
+TIC0191,Consulta,Software,TI,Usuario A,2024-01-24,,Abierto,Media,24,,Técnico 2
+TIC0192,Requerimiento,Hardware,CULT,Usuario B,2024-02-28,2024-03-01 22:00:00,Cerrado,Alta,48,70.0,Técnico 2
+TIC0193,Requerimiento,Hardware,REF,Usuario B,2024-01-21,2024-01-23 11:00:00,Cerrado,Alta,8,59.0,Técnico 3
+TIC0194,Consulta,Red,CULT,Usuario A,2024-03-22,,Abierto,Alta,8,,Técnico 1
+TIC0195,Incidente,Software,CULT,Usuario D,2024-03-02,,Vencido,Media,24,,Técnico 2
+TIC0196,Incidente,Red,ADM,Usuario A,2024-02-08,2024-02-08 02:00:00,Cerrado,Media,48,2.0,Técnico 2
+TIC0197,Consulta,Red,DIR,Usuario C,2024-01-21,2024-01-23 04:00:00,Cerrado,Media,48,52.0,Técnico 3
+TIC0198,Consulta,Otros,CULT,Usuario C,2024-01-29,,Vencido,Media,8,,Técnico 3
+TIC0199,Incidente,Hardware,TI,Usuario D,2024-03-11,,Abierto,Baja,8,,Técnico 3
+TIC0200,Consulta,Software,TI,Usuario B,2024-02-16,,Vencido,Baja,8,,Técnico 3
+TIC0201,Consulta,Otros,ADM,Usuario D,2024-01-20,2024-01-20 22:00:00,Cerrado,Alta,8,22.0,Técnico 3
+TIC0202,Incidente,Otros,TI,Usuario D,2024-02-27,2024-02-27 08:00:00,Cerrado,Baja,24,8.0,Técnico 2
+TIC0203,Consulta,Software,ADM,Usuario A,2024-01-03,2024-01-05 03:00:00,Cerrado,Alta,48,51.0,Técnico 2
+TIC0204,Incidente,Software,CULT,Usuario C,2024-02-14,2024-02-14 09:00:00,Cerrado,Media,8,9.0,Técnico 1
+TIC0205,Requerimiento,Otros,CULT,Usuario A,2024-01-18,2024-01-20 06:00:00,Cerrado,Baja,24,54.0,Técnico 3
+TIC0206,Consulta,Red,ADM,Usuario D,2024-03-10,2024-03-10 18:00:00,Cerrado,Baja,8,18.0,Técnico 1
+TIC0207,Requerimiento,Red,TI,Usuario D,2024-01-29,,Abierto,Alta,24,,Técnico 1
+TIC0208,Incidente,Hardware,DIR,Usuario D,2024-02-28,2024-02-29 21:00:00,Cerrado,Baja,48,45.0,Técnico 1
+TIC0209,Consulta,Software,TI,Usuario A,2024-01-31,2024-02-01 03:00:00,Cerrado,Alta,24,27.0,Técnico 3
+TIC0210,Consulta,Hardware,ADM,Usuario C,2024-01-06,2024-01-08 04:00:00,Cerrado,Alta,8,52.0,Técnico 3
+TIC0211,Incidente,Red,REF,Usuario B,2024-03-14,2024-03-15 17:00:00,Cerrado,Media,8,41.0,Técnico 2
+TIC0212,Consulta,Hardware,CULT,Usuario D,2024-02-05,2024-02-05 08:00:00,Cerrado,Alta,48,8.0,Técnico 2
+TIC0213,Requerimiento,Red,CULT,Usuario B,2024-03-23,,Abierto,Media,48,,Técnico 2
+TIC0214,Requerimiento,Hardware,ADM,Usuario A,2024-01-24,2024-01-26 21:00:00,Cerrado,Baja,24,69.0,Técnico 2
+TIC0215,Incidente,Otros,REF,Usuario C,2024-02-23,2024-02-26 00:00:00,Cerrado,Baja,8,72.0,Técnico 1
+TIC0216,Requerimiento,Hardware,REF,Usuario A,2024-02-27,2024-02-29 00:00:00,Cerrado,Alta,8,48.0,Técnico 1
+TIC0217,Incidente,Hardware,REF,Usuario B,2024-03-16,2024-03-19 00:00:00,Cerrado,Alta,24,72.0,Técnico 3
+TIC0218,Consulta,Hardware,ADM,Usuario C,2024-01-16,,Vencido,Media,24,,Técnico 2
+TIC0219,Consulta,Red,REF,Usuario D,2024-02-29,2024-03-02 21:00:00,Cerrado,Media,24,69.0,Técnico 1
+TIC0220,Incidente,Red,CULT,Usuario B,2024-03-01,,Vencido,Baja,24,,Técnico 1
+TIC0221,Incidente,Otros,ADM,Usuario C,2024-01-03,2024-01-04 10:00:00,Cerrado,Alta,24,34.0,Técnico 2
+TIC0222,Consulta,Red,CULT,Usuario D,2024-03-13,2024-03-14 08:00:00,Cerrado,Media,24,32.0,Técnico 1
+TIC0223,Consulta,Otros,TI,Usuario A,2024-02-15,2024-02-15 22:00:00,Cerrado,Baja,8,22.0,Técnico 1
+TIC0224,Incidente,Otros,ADM,Usuario B,2024-01-10,,Abierto,Alta,8,,Técnico 1
+TIC0225,Incidente,Otros,CULT,Usuario A,2024-03-05,2024-03-07 11:00:00,Cerrado,Baja,48,59.0,Técnico 3
+TIC0226,Incidente,Red,REF,Usuario D,2024-02-22,2024-02-22 02:00:00,Cerrado,Alta,48,2.0,Técnico 1
+TIC0227,Requerimiento,Hardware,TI,Usuario C,2024-01-13,2024-01-15 20:00:00,Cerrado,Media,48,68.0,Técnico 2
+TIC0228,Consulta,Otros,ADM,Usuario B,2024-01-11,,Vencido,Media,48,,Técnico 3
+TIC0229,Requerimiento,Otros,TI,Usuario A,2024-01-11,2024-01-11 05:00:00,Cerrado,Baja,24,5.0,Técnico 1
+TIC0230,Consulta,Otros,REF,Usuario A,2024-03-30,2024-03-30 22:00:00,Cerrado,Baja,48,22.0,Técnico 1
+TIC0231,Incidente,Otros,DIR,Usuario C,2024-01-30,,Vencido,Baja,24,,Técnico 3
+TIC0232,Consulta,Red,ADM,Usuario B,2024-03-25,2024-03-25 05:00:00,Cerrado,Baja,8,5.0,Técnico 2
+TIC0233,Consulta,Hardware,CULT,Usuario C,2024-01-10,2024-01-11 15:00:00,Cerrado,Media,48,39.0,Técnico 3
+TIC0234,Requerimiento,Red,DIR,Usuario B,2024-01-18,2024-01-18 11:00:00,Cerrado,Alta,8,11.0,Técnico 2
+TIC0235,Requerimiento,Red,REF,Usuario D,2024-03-18,,Vencido,Alta,8,,Técnico 2
+TIC0236,Requerimiento,Otros,TI,Usuario B,2024-03-11,2024-03-13 01:00:00,Cerrado,Baja,8,49.0,Técnico 1
+TIC0237,Requerimiento,Hardware,CULT,Usuario C,2024-01-11,2024-01-12 11:00:00,Cerrado,Alta,48,35.0,Técnico 1
+TIC0238,Incidente,Red,ADM,Usuario B,2024-01-01,2024-01-02 16:00:00,Cerrado,Media,8,40.0,Técnico 2
+TIC0239,Requerimiento,Software,DIR,Usuario A,2024-03-12,2024-03-15 00:00:00,Cerrado,Baja,8,72.0,Técnico 3
+TIC0240,Consulta,Otros,DIR,Usuario B,2024-02-11,2024-02-13 02:00:00,Cerrado,Baja,24,50.0,Técnico 3
+TIC0241,Requerimiento,Red,REF,Usuario B,2024-01-22,2024-01-24 01:00:00,Cerrado,Alta,24,49.0,Técnico 1
+TIC0242,Requerimiento,Otros,REF,Usuario B,2024-02-25,2024-02-26 12:00:00,Cerrado,Baja,8,36.0,Técnico 3
+TIC0243,Requerimiento,Hardware,DIR,Usuario C,2024-03-04,2024-03-05 02:00:00,Cerrado,Baja,24,26.0,Técnico 2
+TIC0244,Consulta,Hardware,REF,Usuario B,2024-02-12,2024-02-14 09:00:00,Cerrado,Media,24,57.0,Técnico 2
+TIC0245,Consulta,Red,CULT,Usuario B,2024-01-23,,Vencido,Media,48,,Técnico 2
+TIC0246,Incidente,Hardware,TI,Usuario A,2024-02-05,2024-02-07 03:00:00,Cerrado,Baja,48,51.0,Técnico 2
+TIC0247,Requerimiento,Red,DIR,Usuario D,2024-03-31,2024-04-01 03:00:00,Cerrado,Alta,48,27.0,Técnico 3
+TIC0248,Requerimiento,Hardware,CULT,Usuario A,2024-02-08,2024-02-09 07:00:00,Cerrado,Media,48,31.0,Técnico 3
+TIC0249,Requerimiento,Otros,DIR,Usuario A,2024-03-02,2024-03-04 04:00:00,Cerrado,Alta,48,52.0,Técnico 1
+TIC0250,Requerimiento,Software,CULT,Usuario D,2024-03-25,2024-03-26 22:00:00,Cerrado,Alta,48,46.0,Técnico 1
+TIC0251,Requerimiento,Hardware,REF,Usuario D,2024-01-13,2024-01-14 10:00:00,Cerrado,Baja,24,34.0,Técnico 3
+TIC0252,Requerimiento,Software,DIR,Usuario D,2024-03-29,2024-03-31 17:00:00,Cerrado,Alta,24,65.0,Técnico 1
+TIC0253,Requerimiento,Otros,TI,Usuario C,2024-01-19,2024-01-20 21:00:00,Cerrado,Media,8,45.0,Técnico 1
+TIC0254,Incidente,Red,DIR,Usuario C,2024-02-26,2024-02-28 10:00:00,Cerrado,Baja,8,58.0,Técnico 1
+TIC0255,Consulta,Hardware,ADM,Usuario B,2024-03-27,,Vencido,Media,48,,Técnico 3
+TIC0256,Incidente,Otros,ADM,Usuario D,2024-02-24,2024-02-26 12:00:00,Cerrado,Media,48,60.0,Técnico 1
+TIC0257,Consulta,Otros,DIR,Usuario B,2024-03-19,2024-03-20 02:00:00,Cerrado,Alta,24,26.0,Técnico 2
+TIC0258,Incidente,Hardware,REF,Usuario D,2024-03-31,2024-03-31 09:00:00,Cerrado,Alta,24,9.0,Técnico 2
+TIC0259,Consulta,Red,CULT,Usuario D,2024-03-26,2024-03-28 15:00:00,Cerrado,Baja,48,63.0,Técnico 1
+TIC0260,Consulta,Hardware,REF,Usuario A,2024-02-14,,Abierto,Baja,48,,Técnico 1
+TIC0261,Consulta,Software,REF,Usuario B,2024-02-10,2024-02-10 16:00:00,Cerrado,Baja,8,16.0,Técnico 2
+TIC0262,Consulta,Otros,CULT,Usuario B,2024-02-23,2024-02-23 18:00:00,Cerrado,Baja,8,18.0,Técnico 1
+TIC0263,Incidente,Red,TI,Usuario C,2024-03-03,2024-03-04 13:00:00,Cerrado,Alta,24,37.0,Técnico 2
+TIC0264,Requerimiento,Otros,CULT,Usuario D,2024-01-18,,Abierto,Media,24,,Técnico 1
+TIC0265,Requerimiento,Hardware,DIR,Usuario B,2024-01-11,,Abierto,Baja,24,,Técnico 2
+TIC0266,Incidente,Otros,TI,Usuario A,2024-01-22,2024-01-24 11:00:00,Cerrado,Media,48,59.0,Técnico 3
+TIC0267,Consulta,Software,CULT,Usuario B,2024-02-16,,Abierto,Media,48,,Técnico 1
+TIC0268,Requerimiento,Software,REF,Usuario A,2024-03-24,2024-03-25 08:00:00,Cerrado,Media,24,32.0,Técnico 1
+TIC0269,Consulta,Red,TI,Usuario D,2024-01-31,,Abierto,Alta,48,,Técnico 3
+TIC0270,Consulta,Software,REF,Usuario C,2024-01-18,,Abierto,Baja,48,,Técnico 3
+TIC0271,Requerimiento,Red,TI,Usuario A,2024-01-22,,Vencido,Alta,24,,Técnico 2
+TIC0272,Incidente,Hardware,ADM,Usuario B,2024-01-08,,Abierto,Baja,48,,Técnico 2
+TIC0273,Requerimiento,Red,CULT,Usuario D,2024-02-01,2024-02-03 03:00:00,Cerrado,Alta,48,51.0,Técnico 3
+TIC0274,Requerimiento,Red,REF,Usuario D,2024-01-12,2024-01-14 04:00:00,Cerrado,Media,48,52.0,Técnico 3
+TIC0275,Incidente,Otros,REF,Usuario D,2024-01-01,2024-01-01 12:00:00,Cerrado,Alta,48,12.0,Técnico 2
+TIC0276,Consulta,Red,TI,Usuario B,2024-01-28,2024-01-30 16:00:00,Cerrado,Baja,24,64.0,Técnico 2
+TIC0277,Incidente,Otros,DIR,Usuario D,2024-02-13,2024-02-13 07:00:00,Cerrado,Media,8,7.0,Técnico 1
+TIC0278,Incidente,Hardware,REF,Usuario C,2024-02-24,,Vencido,Alta,48,,Técnico 3
+TIC0279,Consulta,Hardware,CULT,Usuario C,2024-02-16,2024-02-17 09:00:00,Cerrado,Baja,8,33.0,Técnico 3
+TIC0280,Requerimiento,Software,ADM,Usuario A,2024-01-30,2024-02-01 07:00:00,Cerrado,Alta,8,55.0,Técnico 3
+TIC0281,Incidente,Software,REF,Usuario D,2024-01-29,2024-01-31 19:00:00,Cerrado,Baja,8,67.0,Técnico 1
+TIC0282,Incidente,Software,DIR,Usuario C,2024-03-02,2024-03-02 10:00:00,Cerrado,Media,48,10.0,Técnico 2
+TIC0283,Incidente,Hardware,ADM,Usuario A,2024-01-18,,Abierto,Baja,48,,Técnico 3
+TIC0284,Requerimiento,Hardware,ADM,Usuario D,2024-01-22,2024-01-24 09:00:00,Cerrado,Alta,48,57.0,Técnico 1
+TIC0285,Requerimiento,Otros,CULT,Usuario B,2024-01-13,,Abierto,Alta,24,,Técnico 2
+TIC0286,Consulta,Red,DIR,Usuario C,2024-03-23,2024-03-23 11:00:00,Cerrado,Alta,48,11.0,Técnico 3
+TIC0287,Incidente,Otros,DIR,Usuario D,2024-03-18,2024-03-20 18:00:00,Cerrado,Media,24,66.0,Técnico 1
+TIC0288,Requerimiento,Software,DIR,Usuario C,2024-01-31,2024-02-02 16:00:00,Cerrado,Alta,48,64.0,Técnico 2
+TIC0289,Incidente,Hardware,DIR,Usuario A,2024-03-13,2024-03-15 06:00:00,Cerrado,Alta,24,54.0,Técnico 2
+TIC0290,Consulta,Otros,REF,Usuario D,2024-01-28,,Vencido,Media,48,,Técnico 3
+TIC0291,Requerimiento,Hardware,DIR,Usuario A,2024-02-21,2024-02-21 11:00:00,Cerrado,Baja,24,11.0,Técnico 1
+TIC0292,Consulta,Software,CULT,Usuario B,2024-01-20,2024-01-22 21:00:00,Cerrado,Alta,24,69.0,Técnico 1
+TIC0293,Incidente,Software,ADM,Usuario A,2024-01-12,2024-01-14 08:00:00,Cerrado,Baja,24,56.0,Técnico 1
+TIC0294,Consulta,Red,TI,Usuario C,2024-03-30,2024-03-30 02:00:00,Cerrado,Alta,48,2.0,Técnico 2
+TIC0295,Requerimiento,Software,REF,Usuario C,2024-01-17,2024-01-18 11:00:00,Cerrado,Baja,8,35.0,Técnico 1
+TIC0296,Consulta,Red,CULT,Usuario B,2024-02-03,2024-02-03 10:00:00,Cerrado,Media,8,10.0,Técnico 1
+TIC0297,Incidente,Software,TI,Usuario A,2024-02-02,,Abierto,Alta,8,,Técnico 1
+TIC0298,Consulta,Hardware,DIR,Usuario D,2024-01-06,2024-01-08 13:00:00,Cerrado,Alta,8,61.0,Técnico 2
+TIC0299,Consulta,Red,DIR,Usuario C,2024-02-01,,Vencido,Alta,24,,Técnico 3
+TIC0300,Requerimiento,Software,DIR,Usuario C,2024-03-27,2024-03-27 07:00:00,Cerrado,Media,24,7.0,Técnico 2

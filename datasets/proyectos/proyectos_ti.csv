@@ -1,0 +1,11 @@
+id_proyecto,nombre_proyecto,id_componente,estado,fecha_inicio_plan,fecha_fin_plan,fecha_inicio_real,fecha_fin_real,%_avance_actual,prioridad,responsable,presupuesto_planificado,presupuesto_ejecutado,riesgo_global
+PJT01,Proyecto TI 01,INF,Finalizado,2024-01-08,2024-03-21,2024-01-05,2024-04-03,1.0,Alta,Coordinador TI,135026676,117971408,Alto
+PJT02,Proyecto TI 02,GOB,Planeado,2024-01-03,2024-03-15,,,0.02,Media,Líder Desarrollo,94246390,27119491,Alto
+PJT03,Proyecto TI 03,SW,En ejecución,2024-01-26,2024-03-11,2024-01-26,,0.66,Media,Analista de Proyectos,306889378,195849239,Bajo
+PJT04,Proyecto TI 04,DAT,Planeado,2024-01-04,2024-04-03,,,0.08,Alta,Líder Desarrollo,222013556,52966738,Alto
+PJT05,Proyecto TI 05,GOB,Pausado,2024-01-13,2024-03-08,2024-01-18,,0.42,Alta,Coordinador TI,274151326,78004159,Alto
+PJT06,Proyecto TI 06,INF,En ejecución,2024-01-10,2024-03-05,2024-01-08,,0.71,Baja,Líder Infraestructura,284078714,168907954,Alto
+PJT07,Proyecto TI 07,SW,En ejecución,2024-01-22,2024-04-10,2024-01-19,,0.62,Media,Analista de Proyectos,171879360,133017078,Bajo
+PJT08,Proyecto TI 08,SEG,En ejecución,2024-01-30,2024-06-04,2024-02-01,,0.61,Media,Analista de Proyectos,254097967,251556058,Bajo
+PJT09,Proyecto TI 09,INF,En ejecución,2024-01-03,2024-03-15,2024-01-08,,0.75,Media,Líder Desarrollo,194153005,166739972,Medio
+PJT10,Proyecto TI 10,SW,Planeado,2024-01-24,2024-05-19,,,0.05,Media,Líder Infraestructura,310013656,68337991,Medio
