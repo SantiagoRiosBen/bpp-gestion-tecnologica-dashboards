@@ -22,6 +22,7 @@ Los dashboards permiten monitorear indicadores clave, facilitar la toma de decis
 
 El repositorio está organizado en la siguiente estructura:
 
+```
 ├── datasets/
 │ ├── aws/
 │ │ ├── aws_alertas_seguridad.csv
@@ -46,7 +47,7 @@ El repositorio está organizado en la siguiente estructura:
 ├── BPP_Dashboards.pbix
 ├── README.md
 └── .gitkeep
-
+```
 
 ### Descripción de carpetas
 
